@@ -1,3 +1,5 @@
+github.com/mitchellh/mapstructure v1.5.0 h1:jeMsZIYE/09sWLaz43PL7Gy6RuMjD2eJVyuac5Z2hdY=
+github.com/mitchellh/mapstructure v1.5.0/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
 github.com/vaiojarsad/job-processor v0.0.1 h1:L9Z0d37LlCf0W/HMby8UY3Fg5sWK1E14KXnz0lJBHD0=
 github.com/vaiojarsad/job-processor v0.0.1/go.mod h1:KHZ60IbiSAC/SAaooIbd05Yqf88Oh28+gVoJ3lPbzg8=
 github.com/vaiojarsad/reddit-video-downloader v0.0.3 h1:IlTAYUZubLLWPxyfIbOLory7gxEanObb7PMghis7u18=
