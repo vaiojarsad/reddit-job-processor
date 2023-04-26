@@ -2,5 +2,7 @@ github.com/mitchellh/mapstructure v1.5.0 h1:jeMsZIYE/09sWLaz43PL7Gy6RuMjD2eJVyua
 github.com/mitchellh/mapstructure v1.5.0/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
 github.com/vaiojarsad/job-processor v0.0.1 h1:L9Z0d37LlCf0W/HMby8UY3Fg5sWK1E14KXnz0lJBHD0=
 github.com/vaiojarsad/job-processor v0.0.1/go.mod h1:KHZ60IbiSAC/SAaooIbd05Yqf88Oh28+gVoJ3lPbzg8=
-github.com/vaiojarsad/reddit-video-downloader v0.0.3 h1:IlTAYUZubLLWPxyfIbOLory7gxEanObb7PMghis7u18=
-github.com/vaiojarsad/reddit-video-downloader v0.0.3/go.mod h1:xZvFxxJ0nIhUBQv/jT4zkIzMEIY0mJx28IjehbVri3k=
+github.com/vaiojarsad/job-processor v1.0.0 h1:Xnd8EDJceDoWj4zFdU8wO/xhdn1hVuI7z38GaL0Mq3E=
+github.com/vaiojarsad/job-processor v1.0.0/go.mod h1:KHZ60IbiSAC/SAaooIbd05Yqf88Oh28+gVoJ3lPbzg8=
+github.com/vaiojarsad/reddit-video-downloader v1.0.0 h1:9AnUHngPpXInVBIbLOnGlV+lh044ILI3FNB7J4BG5uo=
+github.com/vaiojarsad/reddit-video-downloader v1.0.0/go.mod h1:xZvFxxJ0nIhUBQv/jT4zkIzMEIY0mJx28IjehbVri3k=
