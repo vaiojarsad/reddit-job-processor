@@ -21,7 +21,6 @@ type RedditVideoDownloadJobProcessor struct {
 }
 
 func NewRedditVideoDownloadJobProcessor(ctx jobprocessor.ExecutionContext) (jobprocessor.JobProcessor, error) {
-	fmt.Println(ctx)
 	return &RedditVideoDownloadJobProcessor{}, nil
 }
 
